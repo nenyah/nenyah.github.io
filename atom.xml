@@ -17,8 +17,8 @@
   
   <entry>
     <title>测试hexo</title>
-    <link href="http://yoursite.com/2017/05/04/%E6%B5%8B%E8%AF%95hexo/"/>
-    <id>http://yoursite.com/2017/05/04/测试hexo/</id>
+    <link href="http://yoursite.com/2017/05/04/%E6%B5%8B%E8%AF%95hexo/404.html"/>
+    <id>http://yoursite.com/2017/05/04/测试hexo/404.html</id>
     <published>2017-05-04T05:13:29.000Z</published>
     <updated>2017-05-04T05:17:55.916Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/05/04/hello-world/"/>
-    <id>http://yoursite.com/2017/05/04/hello-world/</id>
+    <link href="http://yoursite.com/2017/05/04/hello-world/404.html"/>
+    <id>http://yoursite.com/2017/05/04/hello-world/404.html</id>
     <published>2017-05-04T05:05:50.665Z</published>
     <updated>2017-05-04T05:05:50.682Z</updated>
     
